@@ -1,16 +1,63 @@
-## Hi there 👋
+# Muhammad Faraz — GitHub Profile Readme
 
-<!--
-**farazAhmed03/farazAhmed03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Muhammad Faraz</h1>
+<h3 align="center">MERN Stack & Backend Developer | Networking Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=farazAhmed03&label=Profile%20views&color=0e75b6&style=flat" alt="farazAhmed03" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Trophy -->
+<p align="left">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazAhmed03" alt="farazAhmed03" /></a>
+</p>
+
+- 🔭 I’m currently working on **MERN & Backend Projects (Backend‑Focused)**
+- 🌱 I’m currently learning **DevOps, Linux, Docker, CI/CD & Advanced Backend Architecture**
+- 💼 Experience: **1 Year**  
+  - 6 Months Internship (HTML | CSS | JS | jQuery | API INTEGRATION | MongoDB | NodeJS with ExpressJS | Postman | Git & Github )  
+  - 7 Months Part‑time Backend Development (Project‑based)
+- 💬 Ask me about **HTML, CSS, JS, jQuery, React (Basics — API Integration, Frontend consuming Backend APIs), Node.js, Express, MongoDB, Firebase Auth & Firestore, MERN Security (Rate limiting, sanitization, JWT, secure APIs)**
+- 🧠 Networking Knowledge: **CCNA Level (OSPF, RIP, Subnetting, VLAN, DHCP, Router‑on‑Stick, BGP basics)** — Labs done in Packet Tracer
+- 📫 Reach me at: **faraztkd05@gmail.com**
+
+---
+
+### Connect With Me
+<p>
+<a href="http://linkedin.com/in/muhammad-faraz-44922b370/" target="_blank">LinkedIn Profile</a>
+</p>
+
+### Networking Knowledge
+- CCNA level concepts
+- OSPF, RIP, EIGRP, BGP basics
+- VLANs, Router-on-Stick, Subnetting
+- DHCP, NAT, ACLs, Packet Tracer Labs
+
+### Skills & Technologies
+<p align="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40"/>
+ <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+ <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+---
+
+### GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farazAhmed03&show_icons=true&locale=en&layout=compact" /></p>
+<br/><br/><br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=farazAhmed03&show_icons=true&locale=en" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farazAhmed03" /></p>
+
+---
+
+### Visitors
+![](https://hit.yhype.me/github/profile?user_id=farazAhmed03)
