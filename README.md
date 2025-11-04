@@ -28,9 +28,9 @@
 <a href="http://linkedin.com/in/muhammad-faraz-44922b370/" target="_blank">LinkedIn Profile</a>
 </p>
 
-### Networking Knowledge
-- CCNA level concepts
-- OSPF, RIP, EIGRP, BGP basics
+### Networking 
+- Solid foundation and  concepts in Networking like
+- OSPF, RIP, EIGRP, BGP
 - VLANs, Router-on-Stick, Subnetting
 - DHCP, NAT, ACLs, Packet Tracer Labs
 
