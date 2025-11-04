@@ -13,13 +13,13 @@
 </p>
 
 - 🔭 I’m currently working on **MERN & Backend Projects (Backend‑Focused)**
-- 🌱 I’m currently learning **DevOps, Linux, Docker, CI/CD & Advanced Backend Architecture**
-- 💼 Experience: **1 Year**  
+- 🌱 I’m currently learning **DevOps, Linux, Docker, CI/CD**
+-  Experience:
   - 6 Months Internship (HTML | CSS | JS | jQuery | API INTEGRATION | MongoDB | NodeJS with ExpressJS | Postman | Git & Github )  
   - 7 Months Part‑time Backend Development (Project‑based)
 - 💬 Ask me about **HTML, CSS, JS, jQuery, React (Basics — API Integration, Frontend consuming Backend APIs), Node.js, Express, MongoDB, Firebase Auth & Firestore, MERN Security (Rate limiting, sanitization, JWT, secure APIs)**
-- 🧠 Networking Knowledge: **CCNA Level (OSPF, RIP, Subnetting, VLAN, DHCP, Router‑on‑Stick, BGP basics)** — Labs done in Packet Tracer
-- 📫 Reach me at: **faraztkd05@gmail.com**
+-  Networking Knowledge: **Solid Foundation (OSPF, RIP, Subnetting, VLAN, DHCP, Router‑on‑Stick, BGP basics)** — Labs done in Packet Tracer
+-  Reach me at: **faraztkd05@gmail.com**
 
 ---
 
