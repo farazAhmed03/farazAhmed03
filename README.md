@@ -1,5 +1,3 @@
-# Muhammad Faraz — GitHub Profile Readme
-
 <h1 align="center">Hi 👋, I'm Muhammad Faraz</h1>
 <h3 align="center">MERN Stack & Backend Developer | Networking Enthusiast</h3>
 
