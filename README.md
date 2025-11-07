@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faraz</h1>
-<h3 align="center">MERN Stack & Backend Developer | Networking Enthusiast</h3>
+<h3 align="center">MERN Stack & Backend Developer & Networking Enthusiast</h3>
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=farazAhmed03&label=Profile%20views&color=0e75b6&style=flat" alt="farazAhmed03" />
@@ -10,8 +10,8 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazAhmed03" alt="farazAhmed03" /></a>
 </p>
 
-- 🔭 I’m currently working on **MERN & Backend Projects (Backend‑Focused)**
-- 🌱 I’m currently learning **DevOps, Linux, Docker, CI/CD**
+- **MERN & Backend Developer mostly (Backend‑Focused)**
+-  I’m currently learning **DevOps, Linux, Docker, CI/CD**
 -  Experience:
   - 6 Months Internship (HTML | CSS | JS | jQuery | API INTEGRATION | MongoDB | NodeJS with ExpressJS | Postman | Git & Github )  
   - 7 Months Part‑time Backend Development (Project‑based)
