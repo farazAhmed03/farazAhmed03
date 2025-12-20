@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faraz</h1>
-<h3 align="center">Backend Developer & CCNA  </h3>
+<h3 align="center">Associate Mern Stack Developer & Devops Enthusiats  </h3>
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=farazAhmed03&label=Profile%20views&color=0e75b6&style=flat" alt="farazAhmed03" />
