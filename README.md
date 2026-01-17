@@ -13,8 +13,9 @@
 - **Associate Software Engineer (Backend‑Focused)**
 -  Currently learning DevOps **
 -  Experience:
-  - 6 Months Internship (HTML | CSS | JS | jQuery | API INTEGRATION | MongoDB | NodeJS with ExpressJS | Postman | Git & Github )  
-  
+  - 6 Months Internship at Infusible Coders PVT LTD
+  Skills -  
+     OOP, NODE, Mongo, SQL, Linux Fundamentals, Docker, Postman, Microservices, HTML, CSS, JS, React(Basic + API integration),   
 - 💬 Ask me about **HTML, CSS, JS, React (Basics — API Integration, Frontend consuming Backend APIs), Node, MongoDB, Security (Rate limiting, sanitization, JWT, secure APIs)**
 -  Networking: **Solid Foundation (OSPF, RIP, Subnetting, VLAN, DHCP, Router‑on‑Stick, BGP basics)** — Labs done in Packet Tracer
 -  Reach me at: **faraztkd05@gmail.com**
