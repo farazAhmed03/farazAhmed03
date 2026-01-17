@@ -10,13 +10,13 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazAhmed03" alt="farazAhmed03" /></a>
 </p>
 
-- **MERN & Backend Developer mostly (Backend‑Focused)**
--  I’m currently learning **DevOps, Linux, Docker, CI/CD**
+- **Associate Software Engineer (Backend‑Focused)**
+-  Currently learning DevOps **
 -  Experience:
   - 6 Months Internship (HTML | CSS | JS | jQuery | API INTEGRATION | MongoDB | NodeJS with ExpressJS | Postman | Git & Github )  
-  - 7 Months Part‑time Backend Development (Project‑based)
-- 💬 Ask me about **HTML, CSS, JS, jQuery, React (Basics — API Integration, Frontend consuming Backend APIs), Node.js, Express, MongoDB, Firebase Auth & Firestore, MERN Security (Rate limiting, sanitization, JWT, secure APIs)**
--  Networking Knowledge: **Solid Foundation (OSPF, RIP, Subnetting, VLAN, DHCP, Router‑on‑Stick, BGP basics)** — Labs done in Packet Tracer
+  
+- 💬 Ask me about **HTML, CSS, JS, React (Basics — API Integration, Frontend consuming Backend APIs), Node, MongoDB, Security (Rate limiting, sanitization, JWT, secure APIs)**
+-  Networking: **Solid Foundation (OSPF, RIP, Subnetting, VLAN, DHCP, Router‑on‑Stick, BGP basics)** — Labs done in Packet Tracer
 -  Reach me at: **faraztkd05@gmail.com**
 
 ---
@@ -25,12 +25,6 @@
 <p>
 <a href="http://linkedin.com/in/muhammad-faraz-44922b370/" target="_blank">LinkedIn Profile</a>
 </p>
-
-### Networking 
-- Solid foundation and  concepts in Networking like
-- OSPF, RIP, EIGRP, BGP
-- VLANs, Router-on-Stick, Subnetting
-- DHCP, NAT, ACLs, Packet Tracer Labs
 
 ### Skills & Technologies
 <p align="left">
