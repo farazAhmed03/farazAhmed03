@@ -37,6 +37,27 @@
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+
+ <p align="left">
+ <!-- Languages & Frameworks -->
+ <img src="https://raw.githubusercontent.com" width="40" title="HTML5"/>
+ <img src="https://raw.githubusercontent.com" width="40" title="CSS3"/>
+ <img src="https://raw.githubusercontent.com" width="40" title="JavaScript"/>
+ <img src="https://upload.wikimedia.org" width="40" title="React"/>
+ <img src="https://www.vectorlogo.zone" width="40" title="Node.js"/>
+ <img src="https://raw.githubusercontent.com" width="40" title="Express"/>
+ <img src="https://raw.githubusercontent.com" width="40" title="MongoDB"/>
+ <img src="https://www.vectorlogo.zone" width="40" title="Firebase"/>
+ <img src="https://raw.githubusercontent.com" width="40" title="Git"/>
+ <img src="https://raw.githubusercontent.com" width="40" title="Linux"/>
+ 
+ <!-- DevOps & Cloud -->
+ <img src="https://raw.githubusercontent.com" width="40" title="Docker"/>
+ <img src="https://raw.githubusercontent.com" width="40" title="Kubernetes"/>
+ <img src="https://raw.githubusercontent.com" width="40" title="Bash"/>
+ <img src="https://raw.githubusercontent.com" width="40" title="AWS"/>
+</p>
+
 </p>
 
 ---
