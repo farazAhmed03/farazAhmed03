@@ -50,12 +50,6 @@
  <img src="https://www.vectorlogo.zone" width="40" title="Firebase"/>
  <img src="https://raw.githubusercontent.com" width="40" title="Git"/>
  <img src="https://raw.githubusercontent.com" width="40" title="Linux"/>
- 
- <!-- DevOps & Cloud -->
- <img src="https://raw.githubusercontent.com" width="40" title="Docker"/>
- <img src="https://raw.githubusercontent.com" width="40" title="Kubernetes"/>
- <img src="https://raw.githubusercontent.com" width="40" title="Bash"/>
- <img src="https://raw.githubusercontent.com" width="40" title="AWS"/>
 </p>
 
 </p>
