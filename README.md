@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faraz</h1>
-<h3 align="center"><h3 align="center">Aspiring DevOps Engineer | Computer Science Graduate | Associate Software Engineer</h3></h3>
+<h3 align="center">Aspiring Cloud DevOps Engineer | Computer Science Graduate | Associate Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farazAhmed03&label=Profile%20Views&color=0e75b6&style=flat" alt="farazAhmed03" />
@@ -9,46 +9,64 @@
 
 ## 🚀 About Me
 
-I am a Computer Science graduate and an aspiring **DevOps Engineer** with hands-on practice in **Linux, Docker, Kubernetes, AWS, CI/CD basics, networking, and cloud infrastructure**.
+I am a Computer Science graduate focused on building my career as a **Cloud DevOps Engineer**.
 
-Currently, I am working as a **Network & Cloud Engineering Apprentice at Quantum-Ronics, Islamabad**, where I am gaining practical exposure to infrastructure environments, VMware ESXi, virtual machines, server operations, monitoring, and cloud-related tasks.
+I have a background in backend development and full-stack web applications, with hands-on experience in **Node.js, Express.js, MongoDB, REST APIs, Docker, Linux, AWS, Kubernetes, and basic CI/CD**.
 
-My primary career goal is to grow as a **DevOps / Cloud Engineer**, with a strong focus on automation, containerization, scalable deployments, infrastructure reliability, and cloud platforms.
+Currently, I am doing a **6-month internship at Quantum-Ronics, Secretariat, Islamabad**, where I am gaining practical exposure to infrastructure operations, networking, cloud-related tasks, VMware ESXi, virtual machines, server-side tasks, documentation, and monitoring.
+
+During this internship, I worked for around **2 months in Network Analysis** and now I am working more around **Cloud and Infrastructure tasks**. Alongside company responsibilities, I actively practice DevOps whenever I get free time during office hours, especially after completing assigned work.
+
+My main goal is to become a skilled **Cloud DevOps Engineer** with strong practical knowledge of Linux, Docker, Kubernetes, AWS, CI/CD, infrastructure automation, monitoring, and production-ready deployment workflows.
 
 ---
 
-## 💼 Current Experience
+## 🎯 Current Focus
 
-### Network & Cloud Engineering Apprenticeship  
-**Quantum-Ronics — Islamabad, Pakistan**  
-**Mar 2026 – Present**
+- Cloud DevOps Engineering
+- Linux Administration
+- Docker & Kubernetes
+- AWS Cloud Infrastructure
+- CI/CD Pipelines
+- Infrastructure Automation
+- Server Monitoring
+- VMware ESXi & Virtual Machines
+- Networking Concepts for DevOps
+- Production-Ready Deployment Workflows
+
+---
+
+## 💼 Experience
+
+### Intern — Network, Cloud & Infrastructure  
+**Quantum-Ronics — Secretariat, Islamabad, Pakistan**  
+**6-Month Internship**
 
 - Working in a real infrastructure and cloud operations environment
 - Hands-on exposure to **VMware ESXi** and virtual machine management
-- Involved in server-side operational tasks, documentation, monitoring, and infrastructure support
-- Worked around network analysis and cloud-related responsibilities during the apprenticeship
-- Practicing DevOps concepts alongside company tasks, especially when infrastructure workload allows
-- Building practical understanding of how servers, VMs, networks, and cloud operations connect in real environments
+- Involved in server-side operational tasks, documentation, and monitoring
+- Worked around **Network Analysis** tasks during the internship
+- Currently gaining more exposure to **Cloud and Infrastructure** related work
+- Practicing DevOps concepts during free office hours after completing assigned company tasks
+- Building practical understanding of how servers, virtual machines, networking, monitoring, and cloud operations connect in real environments
 
 ---
 
-## 🎯 Career Focus
+### Web Developer Intern  
+**Infusible Coders Pvt Ltd — Kohat, Pakistan**  
+**Dec 2023 – Mar 2024**
 
-- DevOps Engineering
-- Cloud Infrastructure
-- Linux System Administration
-- Docker & Kubernetes
-- AWS Cloud Deployment
-- CI/CD Pipelines
-- Infrastructure Automation
-- Monitoring & Reliability
-- Networking for DevOps
+- Worked on web application development using modern JavaScript technologies
+- Built and integrated frontend and backend features
+- Worked with APIs, Git, GitHub, and collaborative development workflows
+- Improved understanding of real-world software development and project structure
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills & Technologies
 
-### DevOps & Cloud
+### DevOps, Cloud & Infrastructure
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
@@ -64,7 +82,7 @@ My primary career goal is to grow as a **DevOps / Cloud Engineer**, with a stron
 - Docker
 - Kubernetes
 - AWS EC2, ECR, ECS, EKS, S3, IAM
-- Basic CI/CD
+- CI/CD Basics
 - Nginx Reverse Proxy
 - VMware ESXi
 - Virtual Machines
@@ -72,7 +90,8 @@ My primary career goal is to grow as a **DevOps / Cloud Engineer**, with a stron
 
 ---
 
-### Backend & Development
+### Backend & Web Development
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" title="Node.js"/>
@@ -90,14 +109,15 @@ My primary career goal is to grow as a **DevOps / Cloud Engineer**, with a stron
 - REST APIs
 - API Security
 - JWT Authentication
-- RBAC
-- React Basic + API Integration
+- Role-Based Access Control
+- React Basics
+- API Integration
 - Postman
 - HTML & CSS
 
 ---
 
-### Networking Knowledge
+### Networking
 
 - TCP/IP
 - Subnetting / VLSM
@@ -113,7 +133,7 @@ My primary career goal is to grow as a **DevOps / Cloud Engineer**, with a stron
 - Router-on-Stick
 - HSRP
 - STP
-- Packet Tracer Labs
+- Cisco Packet Tracer Labs
 - Data Center Network Concepts
 
 ---
@@ -127,7 +147,93 @@ My primary career goal is to grow as a **DevOps / Cloud Engineer**, with a stron
 - Simulated high-density environments by deploying 200+ containers
 - Designed scalable deployment workflow using AWS EKS and ECR
 - Configured Kubernetes services, load balancing, and autoscaling
-- Practiced end-to-end workflow:
+- Practiced end-to-end deployment workflow:
 
 ```bash
 Local Development → Docker Build → ECR Push → EKS Deployment → ALB → Autoscaling
+```
+
+---
+
+### 🔐 Network Traffic Firewall Simulation & AWS Deployment
+
+- Developed a rule-based firewall simulation system
+- Visualized allowed and blocked packets using a frontend dashboard
+- Migrated containerized deployment from Vercel/Railway to AWS EC2
+- Configured Elastic IP for stable connectivity
+- Used Nginx as a reverse proxy for request routing
+
+---
+
+### ⚖️ Legal Sphere — Lawyer Management System
+
+- Developed a MERN stack lawyer-client management platform
+- Implemented JWT authentication and Role-Based Access Control
+- Improved backend security using Helmet.js, rate limiting, and input sanitization
+- Integrated Socket.io for real-time communication
+- Containerized the application using Docker
+
+---
+
+### 🌐 Data Center Network Implementation
+
+- Designed and simulated a 2-tier data center network in Cisco Packet Tracer
+- Practiced core and access layer network design
+- Implemented DHCP and Extended ACLs
+- Worked on secure and controlled internal network communication
+- Studied high availability and redundancy concepts
+
+---
+
+## 📚 Certifications
+
+- AWS Cloud Practitioner Essentials — Amazon
+- DevOps Prerequisite Course — KodeKloud
+- Git Basics for DevOps — KodeKloud
+- Docker Basics for DevOps — KodeKloud
+- Kubernetes Basics for DevOps — KodeKloud
+- Fundamentals of Red Hat Enterprise Linux — Red Hat
+- Computer Networks and Network Security — Coursera
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farazAhmed03&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farazAhmed03&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farazAhmed03" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="http://linkedin.com/in/muhammad-faraz-44922b370/" target="_blank">LinkedIn</a>
+</p>
+
+- 📧 Email: **faraz.csdev@gmail.com**
+- 📍 Location: Secretariat, Islamabad, Pakistan
+- 💻 GitHub: **farazAhmed03**
+
+---
+
+## 🧠 Current Goal
+
+I am currently focused on becoming a strong **Cloud DevOps Engineer** by improving my skills in:
+
+- Linux system administration
+- Docker and Kubernetes
+- AWS cloud infrastructure
+- CI/CD pipelines
+- Infrastructure automation
+- Server monitoring
+- VMware and virtual machines
+- Production-ready deployment workflows
