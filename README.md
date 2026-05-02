@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faraz</h1>
-<h3 align="center">Aspiring Cloud DevOps Engineer | Computer Science Graduate | Associate Software Engineer</h3>
+<h3 align="center">Aspiring DevOps Engineer | Computer Science Graduate | Associate Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farazAhmed03&label=Profile%20Views&color=0e75b6&style=flat" alt="farazAhmed03" />
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I am a Computer Science graduate focused on building my career as a **Cloud DevOps Engineer**.
+I am a Computer Science graduate focused on building my career as a **DevOps Engineer**.
 
 I have a background in backend development and full-stack web applications, with hands-on experience in **Node.js, Express.js, MongoDB, REST APIs, Docker, Linux, AWS, Kubernetes, and basic CI/CD**.
 
@@ -17,13 +17,13 @@ Currently, I am doing a **6-month internship at Quantum-Ronics, Secretariat, Isl
 
 During this internship, I worked for around **2 months in Network Analysis** and now I am working more around **Cloud and Infrastructure tasks**. Alongside company responsibilities, I actively practice DevOps whenever I get free time during office hours, especially after completing assigned work.
 
-My main goal is to become a skilled **Cloud DevOps Engineer** with strong practical knowledge of Linux, Docker, Kubernetes, AWS, CI/CD, infrastructure automation, monitoring, and production-ready deployment workflows.
+My main goal is to become a skilled **DevOps Engineer** with strong practical knowledge of Linux, Docker, Kubernetes, AWS, CI/CD, infrastructure automation, monitoring, and production-ready deployment workflows. In the future, I also plan to explore areas like **DevSecOps, Platform Engineering, SRE, and Cloud Engineering**.
 
 ---
 
 ## 🎯 Current Focus
 
-- Cloud DevOps Engineering
+- DevOps Engineering
 - Linux Administration
 - Docker & Kubernetes
 - AWS Cloud Infrastructure
@@ -227,7 +227,7 @@ Local Development → Docker Build → ECR Push → EKS Deployment → ALB → A
 
 ## 🧠 Current Goal
 
-I am currently focused on becoming a strong **Cloud DevOps Engineer** by improving my skills in:
+I am currently focused on becoming a strong **DevOps Engineer** by improving my skills in:
 
 - Linux system administration
 - Docker and Kubernetes
@@ -237,3 +237,4 @@ I am currently focused on becoming a strong **Cloud DevOps Engineer** by improvi
 - Server monitoring
 - VMware and virtual machines
 - Production-ready deployment workflows
+- DevSecOps, Platform Engineering, SRE, and Cloud Engineering fundamentals
