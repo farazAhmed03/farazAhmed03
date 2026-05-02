@@ -157,6 +157,15 @@ My main goal is to become a skilled **DevOps Engineer** with strong practical kn
 ```bash
 Local Development → Docker Build → ECR Push → EKS Deployment → ALB → Autoscaling
 ```
+** United-Concrete-flooring (UCF-Constrution Web Application)  **
+**Live Demo:** [unitedconcreteflooring.com.au](https://unitedconcreteflooring.com.au/)
+
+- A specialized construction platform for an Adelaide-based contractor, featuring full project management modules, service catalogs (Standard, Exposed, and Colored Concrete), and client inquiry systems.
+- Containerized the application for consistent local development and implemented an automated CI pipeline to build and validate images on every code commit.
+- Resolved a critical production deployment issue where files were rendering empty on the server; fixed the root cause by debugging server-side build paths and directory permissions.
+- Successfully managed the deployment to a Hostinger VPS environment, ensuring high availability and performance.
+
+```bash
 
 ---
 
