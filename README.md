@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faraz</h1>
-<h3 align="center">Associate Software Engineer | Devops Learner   </h3>
+<h3 align="center">Associate Software Engineer | Associate Devops Engineer   </h3>
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=farazAhmed03&label=Profile%20views&color=0e75b6&style=flat" alt="farazAhmed03" />
@@ -15,8 +15,8 @@
 -  Experience:
   - 3 Months Internship at Infusible Coders PVT LTD **
 - Skills: **OOP, NODE, Mongo, SQL, Linux Fundamentals, Docker, Postman, Microservices, HTML, CSS, JS, React(Basic + API integration), Api Security **
--  Networking: **Solid Foundation (OSPF, RIP, Subnetting, VLAN, DHCP, Router‑on‑Stick, BGP basics)** — Labs done in Packet Tracer
--  Reach me at: **faraztkd05@gmail.com**
+-  Networking: **Solid Foundation (OSPF, RIP, Subnetting, VLAN, DHCP, Router‑on‑Stick, EIGRP, ACL, Proxy,  BGP basics)** — Labs done in Packet Tracer
+-  Reach me at: **faraz.csdev@gmail.com**
 
 ---
 
