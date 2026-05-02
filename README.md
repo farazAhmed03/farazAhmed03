@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faraz</h1>
-<h3 align="center">Aspiring DevOps Engineer | Computer Science Graduate | Associate Software Engineer</h3>
+
+<h3 align="center">
+Aspiring DevOps Engineer | Computer Science Graduate | Associate Software Engineer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farazAhmed03&label=Profile%20Views&color=0e75b6&style=flat" alt="farazAhmed03" />
+  <img src="https://komarev.com/ghpvc/?username=farazAhmed03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -15,13 +18,15 @@
 
 I am a Computer Science graduate focused on building my career as a **DevOps Engineer**.
 
-I have a background in backend development and full-stack web applications, with hands-on experience in **Node.js, Express.js, MongoDB, REST APIs, Docker, Linux, AWS, Kubernetes, and basic CI/CD**.
+I have a background in backend development and full-stack web applications, with hands-on experience in **Node.js, Express.js, MongoDB, REST APIs, Docker, Linux, AWS, Kubernetes, Git, GitHub, Nginx, VMware ESXi, and basic CI/CD workflows**.
 
 Currently, I am doing a **6-month internship at Quantum-Ronics, Secretariat, Islamabad**, where I am gaining practical exposure to infrastructure operations, networking, cloud-related tasks, VMware ESXi, virtual machines, server-side tasks, documentation, and monitoring.
 
 During this internship, I worked for around **2 months in Network Analysis** and now I am working more around **Cloud and Infrastructure tasks**. Alongside company responsibilities, I actively practice DevOps whenever I get free time during office hours, especially after completing assigned work.
 
-My main goal is to become a skilled **DevOps Engineer** with strong practical knowledge of Linux, Docker, Kubernetes, AWS, CI/CD, infrastructure automation, monitoring, and production-ready deployment workflows. In the future, I also plan to explore areas like **DevSecOps, Platform Engineering, SRE, and Cloud Engineering**.
+My main goal is to become a skilled **DevOps Engineer** with strong practical knowledge of Linux, Docker, Kubernetes, AWS, CI/CD, infrastructure automation, monitoring, and production-ready deployment workflows.
+
+In the future, I also plan to explore advanced areas like **DevSecOps, Platform Engineering, Site Reliability Engineering, and Cloud Engineering**.
 
 ---
 
@@ -29,12 +34,12 @@ My main goal is to become a skilled **DevOps Engineer** with strong practical kn
 
 - DevOps Engineering
 - Linux Administration
-- Docker & Kubernetes
+- Docker and Kubernetes
 - AWS Cloud Infrastructure
 - CI/CD Pipelines
 - Infrastructure Automation
 - Server Monitoring
-- VMware ESXi & Virtual Machines
+- VMware ESXi and Virtual Machines
 - Networking Concepts for DevOps
 - Production-Ready Deployment Workflows
 
@@ -44,12 +49,12 @@ My main goal is to become a skilled **DevOps Engineer** with strong practical kn
 
 ### Intern — Network, Cloud & Infrastructure  
 **Quantum-Ronics — Secretariat, Islamabad, Pakistan**  
-**Apprentice-ship in Progress**
+**Internship in Progress**
 
 - Working in a real infrastructure and cloud operations environment
 - Hands-on exposure to **VMware ESXi** and virtual machine management
 - Involved in server-side operational tasks, documentation, and monitoring
-- Worked around **Network Analysis** tasks during the Apprentice-ship
+- Worked around **Network Analysis** tasks during the internship
 - Currently gaining more exposure to **Cloud and Infrastructure** related work
 - Practicing DevOps concepts during free office hours after completing assigned company tasks
 - Building practical understanding of how servers, virtual machines, networking, monitoring, and cloud operations connect in real environments
@@ -82,16 +87,16 @@ My main goal is to become a skilled **DevOps Engineer** with strong practical kn
 
 - Linux Fundamentals
 - Bash Scripting
-- Git & GitHub
+- Git and GitHub
 - Docker
 - Kubernetes
-- AWS Services: EC2 | ECR | ECS | EKS | S3 | IAM | VPC
-- Security & Compliance: Data-at-rest Encryption, Certificate Management (ACM), and HSM concepts.
+- AWS Services: EC2, ECR, ECS, EKS, S3, IAM, VPC
 - CI/CD Basics
 - Nginx Reverse Proxy
 - VMware ESXi
 - Virtual Machines
 - Server Monitoring Basics
+- Infrastructure and Cloud Operations
 
 ---
 
@@ -118,14 +123,14 @@ My main goal is to become a skilled **DevOps Engineer** with strong practical kn
 - React Basics
 - API Integration
 - Postman
-- HTML & CSS
+- HTML and CSS
 
 ---
 
 ### Networking
 
 - TCP/IP
-- Subnetting / VLSM
+- Subnetting and VLSM
 - VLANs
 - DHCP
 - DNS
@@ -143,29 +148,48 @@ My main goal is to become a skilled **DevOps Engineer** with strong practical kn
 
 ---
 
+### Security & Compliance Basics
+
+- API Security
+- Input Sanitization
+- Rate Limiting
+- Helmet.js
+- Data-at-Rest Encryption Concepts
+- Certificate Management Basics
+- AWS IAM Basics
+- HSM Concepts
+
+---
+
 ## 📌 Featured Projects
 
 ### 🚀 Container Orchestration & Deployment Automation  
-**Docker + Kubernetes + AWS EKS**
+**Docker | Kubernetes | AWS EKS | AWS ECR**
 
 - Built Bash automation to manage multiple Docker containers
 - Simulated high-density environments by deploying 200+ containers
-- Designed scalable deployment workflow using AWS EKS and ECR
+- Designed a scalable deployment workflow using AWS EKS and ECR
 - Configured Kubernetes services, load balancing, and autoscaling
-- Practiced end-to-end deployment workflow:
+- Practiced end-to-end container deployment workflow
 
 ```bash
-Local Development → Docker Build → ECR Push → EKS Deployment → ALB → Autoscaling
+Local Development -> Docker Build -> ECR Push -> EKS Deployment -> ALB -> Autoscaling
 ```
-** United-Concrete-flooring (UCF-Constrution Web Application)  **
+
+---
+
+### 🏗️ United Concrete Flooring — Construction Web Application  
 **Live Demo:** [unitedconcreteflooring.com.au](https://unitedconcreteflooring.com.au/)
 
-- A specialized construction platform for an Adelaide-based contractor, featuring full project management modules, service catalogs (Standard, Exposed, and Colored Concrete), and client inquiry systems.
-- Containerized the application for consistent local development and implemented an automated CI pipeline to build and validate images on every code commit.
-- Resolved a critical production deployment issue where files were rendering empty on the server; fixed the root cause by debugging server-side build paths and directory permissions.
-- Successfully managed the deployment to a Hostinger VPS environment, ensuring high availability and performance.
-
-```bash
+- Developed a specialized construction platform for an Adelaide-based contractor
+- Built service catalogs for Standard Concrete, Exposed Concrete, and Colored Concrete
+- Added project management modules and client inquiry features
+- Containerized the application for consistent local development
+- Implemented an automated CI pipeline to build and validate images on every code commit
+- Resolved a critical production deployment issue where files were rendering empty on the server
+- Fixed the root cause by debugging server-side build paths and directory permissions
+- Successfully deployed the application to a Hostinger VPS environment
+- Improved deployment reliability, availability, and application performance
 
 ---
 
@@ -176,26 +200,31 @@ Local Development → Docker Build → ECR Push → EKS Deployment → ALB → A
 - Migrated containerized deployment from Vercel/Railway to AWS EC2
 - Configured Elastic IP for stable connectivity
 - Used Nginx as a reverse proxy for request routing
+- Practiced cloud deployment and basic server configuration
 
 ---
 
-### ⚖️ Legal Sphere — Lawyer Management System
+### ⚖️ Legal Sphere — Lawyer Management System  
+**MERN Stack | JWT | RBAC | Socket.io | Docker**
 
-- Developed a MERN stack lawyer-client management platform
+- Developed a lawyer-client management platform using the MERN stack
 - Implemented JWT authentication and Role-Based Access Control
 - Improved backend security using Helmet.js, rate limiting, and input sanitization
 - Integrated Socket.io for real-time communication
 - Containerized the application using Docker
+- Built secure API routes and role-based access workflows
 
 ---
 
-### 🌐 Data Center Network Implementation
+### 🌐 Data Center Network Implementation  
+**Cisco Packet Tracer | DHCP | ACLs | Data Center Networking**
 
 - Designed and simulated a 2-tier data center network in Cisco Packet Tracer
 - Practiced core and access layer network design
 - Implemented DHCP and Extended ACLs
 - Worked on secure and controlled internal network communication
 - Studied high availability and redundancy concepts
+- Improved practical understanding of enterprise network design
 
 ---
 
@@ -229,13 +258,10 @@ Local Development → Docker Build → ECR Push → EKS Deployment → ALB → A
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="http://linkedin.com/in/muhammad-faraz-44922b370/" target="_blank">LinkedIn</a>
-</p>
-
-- 📧 Email: **faraz.csdev@gmail.com**
-- 📍 Location: Secretariat, Islamabad, Pakistan
-- 💻 GitHub: **farazAhmed03**
+- **LinkedIn:** [Muhammad Faraz](http://linkedin.com/in/muhammad-faraz-44922b370/)
+- **Email:** faraz.csdev@gmail.com
+- **Location:** Secretariat, Islamabad, Pakistan
+- **GitHub:** [farazAhmed03](https://github.com/farazAhmed03)
 
 ---
 
@@ -243,12 +269,21 @@ Local Development → Docker Build → ECR Push → EKS Deployment → ALB → A
 
 I am currently focused on becoming a strong **DevOps Engineer** by improving my skills in:
 
-- Linux system administration
+- Linux System Administration
 - Docker and Kubernetes
-- AWS cloud infrastructure
-- CI/CD pipelines
-- Infrastructure automation
-- Server monitoring
-- VMware and virtual machines
-- Production-ready deployment workflows
-- DevSecOps, Platform Engineering, SRE, and Cloud Engineering fundamentals
+- AWS Cloud Infrastructure
+- CI/CD Pipelines
+- Infrastructure Automation
+- Server Monitoring
+- VMware ESXi and Virtual Machines
+- Production-Ready Deployment Workflows
+- DevSecOps Fundamentals
+- Platform Engineering Fundamentals
+- Site Reliability Engineering Fundamentals
+- Cloud Engineering Fundamentals
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+</p>
