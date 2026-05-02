@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faraz</h1>
-<h3 align="center">Aspiring DevOps Engineer | Cloud & Infrastructure Enthusiast | Network + Cloud Apprentice</h3>
+<h3 align="center"><h3 align="center">Aspiring DevOps Engineer | Computer Science Graduate | Associate Software Engineer</h3></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farazAhmed03&label=Profile%20Views&color=0e75b6&style=flat" alt="farazAhmed03" />
