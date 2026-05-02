@@ -15,7 +15,7 @@
 -  Experience:
   - 3 Months Internship at Infusible Coders PVT LTD **
 - Skills: **OOP, NODE, Mongo, SQL, Linux Fundamentals, Docker, Postman, Microservices, HTML, CSS, JS, React(Basic + API integration), Api Security **
--  Networking: **Solid Foundation (OSPF, RIP, Subnetting, VLAN, DHCP, Router‑on‑Stick, EIGRP, ACL, Proxy,  BGP basics)** — Labs done in Packet Tracer
+-  Networking: **Solid Foundation (OSPF, RIP, Subnetting, VLAN, DHCP, Router‑on‑Stick, EIGRP, ACL, Proxy,  BGP basics) ... etc** — Labs done in Packet Tracer
 -  Reach me at: **faraz.csdev@gmail.com**
 
 ---
