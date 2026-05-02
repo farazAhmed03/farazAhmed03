@@ -40,12 +40,12 @@ My main goal is to become a skilled **DevOps Engineer** with strong practical kn
 
 ### Intern — Network, Cloud & Infrastructure  
 **Quantum-Ronics — Secretariat, Islamabad, Pakistan**  
-**6-Month Internship**
+**Apprentice-ship in Progress**
 
 - Working in a real infrastructure and cloud operations environment
 - Hands-on exposure to **VMware ESXi** and virtual machine management
 - Involved in server-side operational tasks, documentation, and monitoring
-- Worked around **Network Analysis** tasks during the internship
+- Worked around **Network Analysis** tasks during the Apprentice-ship
 - Currently gaining more exposure to **Cloud and Infrastructure** related work
 - Practicing DevOps concepts during free office hours after completing assigned company tasks
 - Building practical understanding of how servers, virtual machines, networking, monitoring, and cloud operations connect in real environments
@@ -81,7 +81,8 @@ My main goal is to become a skilled **DevOps Engineer** with strong practical kn
 - Git & GitHub
 - Docker
 - Kubernetes
-- AWS EC2, ECR, ECS, EKS, S3, IAM
+- AWS Services: EC2 | ECR | ECS | EKS | S3 | IAM | VPC
+- Security & Compliance: Data-at-rest Encryption, Certificate Management (ACM), and HSM concepts.
 - CI/CD Basics
 - Nginx Reverse Proxy
 - VMware ESXi
