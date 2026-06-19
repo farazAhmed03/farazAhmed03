@@ -5,11 +5,11 @@ Aspiring DevOps Engineer | Computer Science Graduate | Associate Software Engine
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farazAhmed03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farazAhmed03&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies" />
+  <img src="https://vercel.app" alt="GitHub Trophies" />
 </p>
 
 ---
