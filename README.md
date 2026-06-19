@@ -8,9 +8,9 @@ Aspiring DevOps Engineer | Computer Science Graduate | Associate Software Engine
   <img src="https://komarev.com" alt="Profile Views" />
 </p>
 
-<p align="center">
+<!-- <p align="center"> -->
   [![trophy](https://github-profile-trophy.vercel.app/?username=farazAhmed03)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+<!-- </p> -->
 
 ---
 
