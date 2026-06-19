@@ -37,28 +37,41 @@ I am a Computer Science graduate passionately building my career as a **DevOps &
 
 ## 💼 Experience
 
-### Intern — Network, Cloud & Infrastructure  
-**Quantum-Ronics — Secretariat, Islamabad, Pakistan**  
-**Internship in Progress**
+### Cloud & Infrastructure Apprentice  
+**Quantum-Communication — Secretariat, Islamabad, Pakistan **  
+** 05/2026 – Present**
 
-- Working in a real infrastructure and cloud operations environment
-- Hands-on exposure to **VMware ESXi** and virtual machine management
-- Involved in server-side operational tasks, documentation, and monitoring
-- Worked around **Network Analysis** tasks during the internship
-- Currently gaining more exposure to **Cloud and Infrastructure** related work
-- Practicing DevOps concepts during free office hours after completing assigned company tasks
-- Building practical understanding of how servers, virtual machines, networking, monitoring, and cloud operations connect in real environments
+- Provisioned physical servers and Virtual Machines (VMs) using VMware vCenter and ESXi with secure remote SSH access.
+- Installed enterprise operating systems (Windows Server, RockyLinux, Ubuntu) and configured hardware RAID storage arrays.
+- Configured and deployed Tailscale & OpenVPN gateways to provide secure remote network access for enterprise employees.
+- Performance monitoring metrics using Prometheus and Grafana.
+- Managed large-scale data pipelines and synchronized remote systems securely utilizing rsync over encrypted SSH sessions
+- Enforced strict access control and security policies via Linux User Management and granular file permissions.
+- Automated cloud infrastructure provisioning on AWS using Terraform and deployed a scalable 3-Tier Application architecture.
+- Actively learning DevOps, automating infrastructure pipelines, Git/GitHub version control, and modern DevOps practices.
 
+---
+
+### Network Analyst Apprentice
+**Quantum Ronic (Ministry of Defence) — Secretariat, Islamabad03/2026 –**  
+** 03/2026 – 04/2026**
+
+- Designed and configured routers, switches, VLANs, subnetting, DHCP, NAT, and ACL concepts for enterprise deployments.
+- Simulated complex enterprise-style network topologies using Cisco Packet Tracer and handled physical lab environments.
+- Performed network troubleshooting, hardware diagnostics, and physical layer maintenance including cable crimping.
+- Evaluated high availability, failover concepts, data center design, redundancy, and infrastructure security protocols.
+- Tested network connectivity and verified stable, secure end-to-end communication paths between enterprise devices.
+- Applied core data communication principles, including analytical computation of CRC, Hamming Code, and line coding schemes.
 ---
 
 ### Web Developer Intern  
 **Infusible Coders Pvt Ltd — Kohat, Pakistan**  
 **Dec 2023 – Mar 2024**
 
-- Worked on web application development using modern JavaScript technologies
-- Built and integrated frontend and backend features
-- Worked with APIs, Git, GitHub, and collaborative development workflows
-- Improved understanding of real-world software development and project structure
+-Engineered and deployed web applications using modern JavaScript frameworks including Node.js and Express.js.
+Built, optimized, and integrated secure RESTful APIs with MongoDB database architectures.
+Managed source code and collaborated within team environments utilizing Git and GitHub version control.
+Gained deep insights into real-world software development lifecycles, clean code practices, and project structuring.
 
 ---
 
