@@ -9,7 +9,7 @@ Aspiring DevOps Engineer | Computer Science Graduate | Associate Software Engine
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=farazAhmed03&theme=onedark&row=1&column=7" />
 </p>
 
 ---
