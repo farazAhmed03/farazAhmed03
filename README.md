@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faraz</h1>
 
 <h3 align="center">
-Aspiring DevOps Engineer | Computer Science Graduate | Associate Software Engineer
+  Computer Science Graduate | Cloud and Infrastructure Intern
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=farazAhmed03&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
-<!-- <p align="center"> -->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=farazAhmed03)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- </p> -->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=farazAhmed03&theme=onedark&row=1&column=7"/>
+</p>
 
+---
 ---
 
 ## 🚀 About Me
