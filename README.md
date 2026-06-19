@@ -16,34 +16,24 @@ Aspiring DevOps Engineer | Computer Science Graduate | Associate Software Engine
 
 ## 🚀 About Me
 
-I am a Computer Science graduate focused on building my career as a **DevOps Engineer**.
+I am a Computer Science graduate passionately building my career as a **DevOps & Cloud Engineer**. Bridging the gap between robust backend development and scalable infrastructure automation.
 
-I have a background in backend development and full-stack web applications, with hands-on experience in **Node.js, Express.js, MongoDB, REST APIs, Docker, Linux, AWS, Kubernetes, Git, GitHub, Nginx, VMware ESXi, and basic CI/CD workflows**.
-
-Currently, I am doing a **6-month internship at Quantum-Ronics, Secretariat, Islamabad**, where I am gaining practical exposure to infrastructure operations, networking, cloud-related tasks, VMware ESXi, virtual machines, server-side tasks, documentation, and monitoring.
-
-During this internship, I worked for around **2 months in Network Analysis** and now I am working more around **Cloud and Infrastructure tasks**. Alongside company responsibilities, I actively practice DevOps whenever I get free time during office hours, especially after completing assigned work.
-
-My main goal is to become a skilled **DevOps Engineer** with strong practical knowledge of Linux, Docker, Kubernetes, AWS, CI/CD, infrastructure automation, monitoring, and production-ready deployment workflows.
-
-In the future, I also plan to explore advanced areas like **DevSecOps, Platform Engineering, Site Reliability Engineering, and Cloud Engineering**.
+- 💼 **Current Role:** Cloud & Infrastructure Apprentice at Quantum-Ronics, Secretariat, Islamabad.
+- 🛠️ **Hands-on Expertise:** VMware ESXi, Linux Admin, AWS, Docker, Kubernetes, Terraform, and CI/CD workflows.
+- 💻 **Backend Background:** Node.js, Express.js, MongoDB, REST APIs, and Nginx.
+- 🎯 **Career Goal:** Master production-ready deployment workflows and advanced infrastructure automation.
+- 🔮 **Future Tracks:** Exploring DevSecOps, Platform Engineering, and Site Reliability Engineering (SRE).
 
 ---
 
 ## 🎯 Current Focus
 
-- DevOps Engineering
-- Linux Administration
-- Docker and Kubernetes
-- AWS Cloud Infrastructure
-- CI/CD Pipelines
-- Infrastructure Automation
-- Server Monitoring
-- VMware ESXi and Virtual Machines
-- Networking Concepts for DevOps
-- Production-Ready Deployment Workflows
+- **DevOps Engineering:** Building automated, reliable, and production-ready CI/CD pipelines.
+- **Cloud & Virtualization:** Managing AWS Infrastructure, VMware ESXi, and Virtual Machines.
+- **Containerization:** Orchestrating scalable environments using Docker and Kubernetes.
+- **Infrastructure as Code:** Automating configuration management and server monitoring (Prometheus/Grafana).
+- **Core Systems:** Deep diving into Linux Administration and enterprise Networking concepts.
 
----
 
 ## 💼 Experience
 
